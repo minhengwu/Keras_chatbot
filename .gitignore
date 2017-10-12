@@ -7,4 +7,5 @@
 #cython
 *.pyc
 
-
+#folder to ignore
+.idea/
