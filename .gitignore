@@ -9,3 +9,9 @@
 
 #folder to ignore
 .idea/
+
+#model weight
+*.h5
+
+#word dict
+*.pickle
