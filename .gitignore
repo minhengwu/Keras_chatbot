@@ -1,0 +1,10 @@
+# IPython Notebook
+.ipynb_checkpoints
+
+# Vagrant
+.vagrant/
+
+#cython
+*.pyc
+
+
